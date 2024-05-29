@@ -9,8 +9,8 @@ I'm a backend engineer who loves working with PHP, Node.js, SQL, and Python. I e
 
 ## 🌱 Currently Learning
 - Frontend development (libraries like React.js and Svelte)
-- Designing microservices architecture
-- Integrating machine learning with backend systems
+- Game Development using godot
+- UI/UX design
 
 ## 💞️ Looking to Collaborate On
 - Open-source projects needing backend skills
