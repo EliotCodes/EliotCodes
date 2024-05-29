@@ -8,8 +8,8 @@ I'm a backend engineer who loves working with PHP, Node.js, SQL, and Python. I e
 - Contributing to open-source projects
 
 ## 🌱 Currently Learning
-- Frontend development (libraries like React.js and Svelte)
-- Game Development using godot
+- Frontend development (libraries like React.js)
+- Game Development using Godot
 - UI/UX design
 
 ## 💞️ Looking to Collaborate On
@@ -24,9 +24,6 @@ I'm a backend engineer who loves working with PHP, Node.js, SQL, and Python. I e
 - Twitter: [@EliotCodes](https://twitter.com/EliotCodes)
 - Telegram: [@EliotCodes](https://t.me/eliotcodes)
 - Website: [eliot.codes](https://eliot.codes)
-
-## 😄 Pronouns
-- He/Him
 
 ## ⚡ Fun Fact
 - When I'm not coding, I'm finding multiple ways to eat something good.
